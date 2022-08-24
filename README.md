@@ -1,9 +1,10 @@
 # Elon-Musk-Tweet-Tracker
 Simple static website with a built in Twitter timeline plug-in displaying Elon's posts.
 
-
-![Site Preview](.png)
+![Site Preview](DogeCoin_Tracker_Preview.png.png)
 
 # Software Used
-- Python
+- HTML
+- CSS
+- Twitter Embed Services
 - Visual Studio Code 
